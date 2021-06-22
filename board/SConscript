@@ -30,6 +30,7 @@ else:
     "-fsingle-precision-constant",
     "-Os",
     "-g",
+    "-DDEBUG",
   ]
 
 
